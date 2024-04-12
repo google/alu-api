@@ -1,0 +1,14 @@
+{
+    "operationConfigs": [
+        {
+            "apiSource": "alu-api",
+            "operations": [
+                {
+                    "resource": "/",
+                    "methods": ["GET"]
+                }
+            ]
+        }
+    ],
+    "operationConfigType": "proxy"
+}
